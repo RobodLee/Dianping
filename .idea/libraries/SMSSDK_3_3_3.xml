@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SMSSDK-3.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.smssdk/SMSSDK/3.3.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.smssdk/SMSSDK/3.3.3/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.smssdk/SMSSDK/3.3.3/jars/libs/SMSSDK-3.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

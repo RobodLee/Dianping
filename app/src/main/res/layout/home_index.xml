@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/dianpingorange">
+
+        <TextView
+        android:id="@+id/index_top_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:drawablePadding="@dimen/little_space"
+        android:drawableLeft="@drawable/home_ico_city"
+        android:textColor="@color/white"
+        android:paddingLeft="@dimen/little_space"
+        android:textSize="17sp"
+        android:text="选择城市"
+        />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_horizontal"
+            android:padding="@dimen/normal_space"
+            android:textSize="@dimen/title_text_size"
+            android:textColor="@color/white"
+            android:text="首页"
+            android:id="@+id/textView" />
+
+        <Button
+            android:id="@+id/scan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:scaleX="0.5"
+            android:scaleY="0.7"
+            android:background="@drawable/nav_icon_scan_nor"/>
+
+    </RelativeLayout>
+
+        <android.support.v7.widget.RecyclerView
+        android:id="@+id/home_nav"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

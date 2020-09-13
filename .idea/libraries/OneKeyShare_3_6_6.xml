@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OneKeyShare-3.6.6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.sharesdk/OneKeyShare/3.6.6/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.sharesdk/OneKeyShare/3.6.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

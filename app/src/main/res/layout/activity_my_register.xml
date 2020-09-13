@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/normal_bg_color">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/register_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_back_u"
+            android:layout_gravity="center"
+            android:paddingLeft="5dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_marginRight="10dp"
+            android:textSize="25sp"
+            android:text="注册"/>
+
+        </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/dianpingorange"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/register_phone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:drawableLeft="@drawable/my_register_phone"
+            android:inputType="phone"
+            android:maxLines="1"
+            android:hint="    输入手机号"/>
+
+        <Button
+            android:id="@+id/register_get_check_pass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/my_register_get_check_pass"
+            android:text="获取验证码"/>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/register_check_upass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:drawableLeft="@drawable/my_register_check_upass"
+        android:background="@color/white"
+        android:inputType="text"
+        android:maxLines="1"
+        android:hint="输入验证码"/>
+
+    <EditText
+        android:id="@+id/register_upass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:drawableLeft="@drawable/my_register_upass"
+        android:background="@color/white"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:hint="输入密码" />
+
+    <Button
+        android:id="@+id/register_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:background="@color/dianpingorange"
+
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:text="注册"/>
+
+    <CheckBox
+        android:id="@+id/register_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:shadowColor="@color/dianpingorange"
+        android:text="我已看过并同意小众点评网《用户使用协议》"/>
+</LinearLayout>

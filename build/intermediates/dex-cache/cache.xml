@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_5b658ceedff559e271b0f337355ff3d19e0a822c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\glide-3.7.0_0423b9a6cdc927b788ec6cf4afd07d25137ac18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\cn.sharesdk\ShareSDK-Wechat-Core\3.6.6\4b7a39a67aeca6b158afc340c23616201bd00e08\ShareSDK-Wechat-Core-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b7a39a67aeca6b158afc340c23616201bd00e08">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-3.6.6_0296d3f613d7747513c3d82b2b7cea41bebbf607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3ae9512143f38b94631a8b5dfbd4dd3fe5913cbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e31dd15db84520b09d3f3e11f84dc55e2f74a890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\cn.sharesdk\ShareSDK\3.6.6\jars\libs\ShareSDK-Core-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9b4897aef56ea4859986bfb9097b1efde59b3021">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-3.6.6_39e5fcc1c122d1dbdcc0756b53ba7b442d125077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_f2b12807c81031892d395fe52d0f199d880cd175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.mob\MobTools\2019.0709.1621\b72b29d316b25fcdf86e447ceb14c19405a1371b\MobTools-2019.0709.1621.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b72b29d316b25fcdf86e447ceb14c19405a1371b">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\MobTools-2019.0709.1621_424d05ba980acf1d3541eeb0880d5f52a7ffde6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\cn.sharesdk\ShareSDK-Wechat-Moments\3.6.6\b01400eded1c4243e052da2168bf774d01f29dfa\ShareSDK-Wechat-Moments-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b01400eded1c4243e052da2168bf774d01f29dfa">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-3.6.6_b0f1827015943dc596d7da7b78b6c9cef603ffc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\cn.sharesdk\ShareSDK-QQ-Core\3.6.6\850675f12b3d8d9b26c6ce1875bc364747f36b79\ShareSDK-QQ-Core-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="850675f12b3d8d9b26c6ce1875bc364747f36b79">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-Core-3.6.6_28a9da0e25fee70abcb165ea0e3fb6602cbae3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.mob\MobGUI\2019.0306.1850\ae83613cd30f40f7b7b51b2413942aa02cd1bd20\MobGUI-2019.0306.1850.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae83613cd30f40f7b7b51b2413942aa02cd1bd20">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\MobGUI-2019.0306.1850_f7e819cd12ec4de1f73404e23265ec9f2d7baa50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_84caaa486624bbb8a9f8a4f8193f61dd4090a64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\cn.sharesdk\ShareSDK-Wechat-Favorite\3.6.6\9cc06174dadf77d6eecf3d96cd1c737202fb0107\ShareSDK-Wechat-Favorite-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cc06174dadf77d6eecf3d96cd1c737202fb0107">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-3.6.6_6cc19b6076cfefa820d6031b3e0a09da1e6d6982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9e3d68f535a38f7fc9898dbb4fa438f53de7d0db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_d135832583f380977806e4dd9ba262cafbf91eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_40e492ea0c42b233cb3b23dcb1a39feabab2952d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7917968e33a5c27480049a7b2bf1f57ded54b88f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\cn.sharesdk\ShareSDK-QQ\3.6.6\b3d3a201baeb624beb0b284d84ba01f0d1123c31\ShareSDK-QQ-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b3d3a201baeb624beb0b284d84ba01f0d1123c31">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-3.6.6_228f878e506f92d594c67be8b271fbd4c243bd2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_70bf9f9bd986a37edba1d2af8a3c99ca58f12685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_618d996fd362efee0b99be2932f0cdb5c37d7c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b9efa17c282f463a4347e74d3018d9eff828eca7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5c8c46c54d6c9ef50020857c252ff083fa7ad1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\cn.smssdk\SMSSDK\3.3.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ccc70c114d25162813754ed0c9fdb944a97cb0d6">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\cn.smssdk-SMSSDK-3.3.2_34bdb80c7f99beae3e96a533fa8cfd869462931c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SoftWare\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a8170ef9f1e69aa4400afd9eab1102e2d2208810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\gson-2.7_71fd4a3c4c934ce874a1abd034432a1dedbfcf1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_4b6f6bade1c66d768b9780519fb729a2d5d2a132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\org.litepal.android\core\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ed5d8f90fadbfa1098d859cda836de0dc31d265">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\org.litepal.android-core-1.4.1_f419b52b9f383475b974679ed57a377d27d4fd58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.mob\MobCommons\2019.0726.1941\8e3ed1dc470bef6b03e3a47bbfe91bb4899477ee\MobCommons-2019.0726.1941.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e3ed1dc470bef6b03e3a47bbfe91bb4899477ee">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\MobCommons-2019.0726.1941_63c2f5216c625465f87fff175e7d21b096019bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\cn.sharesdk\ShareSDK-Wechat\3.6.6\6cb1cdd996aa8c7cd9be78915276f6b95c219d0c\ShareSDK-Wechat-3.6.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6cb1cdd996aa8c7cd9be78915276f6b95c219d0c">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-3.6.6_83f0d8edc43ca8ae7bd495024908b2015fa40b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\cn.sharesdk\ShareSDK\3.6.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5afdaf989cba6d6d2c896227738aba74d42ead1a">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\cn.sharesdk-ShareSDK-3.6.6_f63b3b224d31a0888c4ff74a13d6edcfc91385b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\cn.smssdk\SMSSDK\3.3.2\jars\libs\SMSSDK-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3cb55e6b0db7f314bc7263fd5f73e8b2d05d3c3">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\SMSSDK-3.3.2_f3bd9c7f0d9faa299b19f3c007198fd0a9c24cec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.mob\SDKWrapper\2018.0801.1824\b0a2b6cd26f6318a0f268efbb39ad28ff9c9165c\SDKWrapper-2018.0801.1824.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b0a2b6cd26f6318a0f268efbb39ad28ff9c9165c">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\SDKWrapper-2018.0801.1824_ad96104f1daeeffc29628fa36e2c08aae65fe633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\cn.sharesdk\OneKeyShare\3.6.6\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="621d968c92c811a59a997f1074d0abc45a08e1eb">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\cn.sharesdk-OneKeyShare-3.6.6_473ab921d882d56b6664f439fc55621b4ce3bd54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.scwang.smartrefresh\SmartRefreshLayout\1.1.0-alpha-32\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fffba281fd27422f051cd1caeb545c4e10cecdd9">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.scwang.smartrefresh-SmartRefreshLayout-1.1.0-alpha-32_fa07a6a96eb3b59e75ff9eb3dde954302a4646f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_23a8ccb05c7b2fd6cad319e26bb6285fcaaa8280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_bad03a21470b2f4a0c1a4507072c234b4a380a29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\robod\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\okio-1.9.0_f8bb5b984e8a66abb7d948c1cf079326f1a5f887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98b50cab1d25fe50e0205565deb83efda0ec6748">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_e955e5dc541c7f6f668b3f6967d9fec95053d8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\exploded-aar\org.xutils\xutils\3.5.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45508cc6cffc20b4e746a074ef54869f8777e13a">
+        <dex dex="E:\Android\AndroidStudioProjects\Dianping\app\build\intermediates\pre-dexed\debug\org.xutils-xutils-3.5.1_e6f770313b3779d393bb5ef20885c197e9784553.jar" />
+    </item>
+
+</items>

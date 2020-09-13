@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    </FrameLayout>
+
+    <RadioGroup
+        android:id="@+id/main_bottom_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/main_home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/main_home_selector"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+            android:button="@null"
+            android:textSize="20sp"
+            android:textColor="@color/main_tabsbutton_color_selector"
+            android:text="首页" />
+
+        <RadioButton
+            android:id="@+id/main_tuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/main_tuan_selector"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+            android:button="@null"
+            android:textSize="20sp"
+            android:textColor="@color/main_tabsbutton_color_selector"
+            android:text="团购"/>
+
+        <RadioButton
+            android:id="@+id/main_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/main_search_selector"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+            android:button="@null"
+            android:textSize="20sp"
+            android:textColor="@color/main_tabsbutton_color_selector"
+            android:text="发现"/>
+
+        <RadioButton
+            android:id="@+id/main_my"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/main_my_selector"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:scaleX="0.7"
+            android:scaleY="0.7"
+            android:button="@null"
+            android:textSize="20sp"
+            android:textColor="@color/main_tabsbutton_color_selector"
+            android:text="我的"/>
+    </RadioGroup>
+</LinearLayout>

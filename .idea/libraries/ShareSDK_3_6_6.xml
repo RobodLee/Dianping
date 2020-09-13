@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ShareSDK-3.6.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.sharesdk/ShareSDK/3.6.6/jars/libs/ShareSDK-Core-3.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.sharesdk/ShareSDK/3.6.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/cn.sharesdk/ShareSDK/3.6.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

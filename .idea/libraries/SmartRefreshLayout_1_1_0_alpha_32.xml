@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SmartRefreshLayout-1.1.0-alpha-32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.scwang.smartrefresh/SmartRefreshLayout/1.1.0-alpha-32/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.scwang.smartrefresh/SmartRefreshLayout/1.1.0-alpha-32/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.scwang.smartrefresh/SmartRefreshLayout/1.1.0-alpha-32/8d4ffa93dd5298d9d5e708b002d904e2f9f2a68b/SmartRefreshLayout-1.1.0-alpha-32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

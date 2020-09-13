@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="dianping_db" ></dbname>
+
+    <version value="1" ></version>
+
+    <list>
+        <mapping class="com.dianping.android.enity.City"/>
+    </list>
+
+</litepal>
